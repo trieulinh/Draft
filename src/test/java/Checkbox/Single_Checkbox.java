@@ -14,7 +14,7 @@ public class Single_Checkbox {
     public static void main(String[] args) throws InterruptedException {
 
         //open Browser
-        WebDriver driver = new ChromeDriver();
+        //WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
 
         //navigate to Website
